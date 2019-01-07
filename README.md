@@ -27,3 +27,5 @@ kubectl get pods
 `kubectl apply -f bookinfo.yaml`
 
 `kubectl delete ingress gateway`
+
+http://localhost:32732/ambassador/v0/diag/
